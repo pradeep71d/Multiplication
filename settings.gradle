@@ -1,0 +1,2 @@
+include ':app', ':mysdk52'
+rootProject.name='MySdk5'
